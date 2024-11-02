@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/E-Learn/static/css/main.cbd4d50d.css",
+    "main.js": "/E-Learn/static/js/main.bcaabed2.js",
+    "static/js/453.921fcf3b.chunk.js": "/E-Learn/static/js/453.921fcf3b.chunk.js",
+    "static/media/banner2.png": "/E-Learn/static/media/banner2.e705c2d993f6e5f86ec6.png",
+    "static/media/hero.png": "/E-Learn/static/media/hero.4455f502856605318572.png",
+    "static/media/banner1.png": "/E-Learn/static/media/banner1.27a0ee9c930c52437f5b.png",
+    "static/media/footer.jpg": "/E-Learn/static/media/footer.ab8aad44bdfc30cfb107.jpg",
+    "static/media/slick.svg": "/E-Learn/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-Learn/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-Learn/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-Learn/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-Learn/index.html",
+    "main.cbd4d50d.css.map": "/E-Learn/static/css/main.cbd4d50d.css.map",
+    "main.bcaabed2.js.map": "/E-Learn/static/js/main.bcaabed2.js.map",
+    "453.921fcf3b.chunk.js.map": "/E-Learn/static/js/453.921fcf3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbd4d50d.css",
+    "static/js/main.bcaabed2.js"
+  ]
+}
